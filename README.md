@@ -1,1 +1,1 @@
-"# NextJS-Learn-Basic" 
+Learn Basic Next JS with Typescript
